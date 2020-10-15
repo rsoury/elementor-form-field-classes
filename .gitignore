@@ -1,0 +1,7 @@
+.DS_Store
+
+# Composer
+/vendor
+
+# Deploy temp dir
+/tmp
